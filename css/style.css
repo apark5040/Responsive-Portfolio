@@ -42,6 +42,7 @@ h2 {
 
 .me {
     line-height: 30px;
+    margin-bottom: 90px;
 }
 
 img {
@@ -63,6 +64,9 @@ input {
 
 .message {
     height: 200px;
+    width: 940px;
+    margin: 10px;
+    text-align: left;
 }
 
 button {
@@ -87,7 +91,6 @@ footer {
     color: white;
     clear: both;
     position: relative;
-    z-index: 10;
     margin-top: -1em;
     bottom: 0;
     left: 0;
@@ -119,7 +122,7 @@ li {
     text-decoration: none;
  }
 
-.about {
+.about, .contactme {
     background-color: #ffffff;
     width: 960px;
     margin-left: auto;
@@ -288,6 +291,8 @@ h3 {
     .message, .name, .email {
         width: 380px;
     }
+
+  
 
  
 
