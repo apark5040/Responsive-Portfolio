@@ -258,10 +258,19 @@ h3 {
 @media screen and (max-width: 640px) {
     h1 {
         left: 0;
+        width: 100%;
     }
 
     nav {
-        right: 0px;
+        background-color: white;
+        top: 63px;
+        width: 100%;
+        right: 0;
+        border-bottom: solid 3px #cccccc;
+    }
+
+   li {
+        padding-left: 95px;
     }
 
     .block2 {
