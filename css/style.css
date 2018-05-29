@@ -190,7 +190,7 @@ h3 {
         right: 100px;
     }
 
-    .about {
+    .about, .contactme {
         width: 700px;
     }
 
@@ -221,7 +221,7 @@ h3 {
         right: 50px;
     }
 
-    .about {
+    .about, .contactme {
         width: 400px;
     }
 
@@ -292,6 +292,7 @@ h3 {
         width: 380px;
     }
 
+   
   
 
  
