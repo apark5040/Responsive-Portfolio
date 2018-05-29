@@ -1,0 +1,174 @@
+body {
+    color: #777777;
+    width: 100%;
+    margin-left: auto;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 60px;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: solid #cccccc;
+}
+
+nav {
+    float: right;
+    position: fixed;
+    top: 10px;
+    right: 160px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    height: 60px;
+    width: 200px;
+    position: fixed;
+    left: 170px;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.me {
+    line-height: 30px;
+}
+
+img {
+    margin: 10px;
+}
+
+.foot {
+    margin-top: 10px;
+}
+
+div {
+    margin-top: 20px;
+}
+
+input {
+    width: 940px;
+    margin: 10px;
+}
+
+.message {
+    height: 200px;
+}
+
+button {
+    background-color: #4aaaa5;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+.portimg {
+    height: 330px;
+    background-color: white;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    background-color: #666666;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    border-top: solid #4aaaa5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+
+
+ li a {
+    display: block;
+    color: #666666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+
+.about {
+    background-color: #ffffff;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 25px;
+}
+
+#nameimage {
+    height: 150px;
+    width: 180px;
+    float: left;
+    margin-right: 15px;
+}
+
+.rel {
+    position: relative;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.box {
+    position: absolute;
+    background-color: #4aaaa5;
+    margin-left: 10px;
+    width: 180px;
+    height: 30px;
+}
+.block1 {
+    top: 100px;
+}
+
+.block2 {
+    top: 100px;
+    left: 205px;
+}
+
+.block3 {
+    top: 100px;
+    left: 410px;
+}
+
+.block4 {
+    top: 100px;
+    left: 615px;
+}
+
+.block5{
+    top: 270px;
+}
